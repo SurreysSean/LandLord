@@ -1,2 +1,2 @@
 # LandLord
-a landlord game developed by QT(Origin Project: https://gitee.com/subingwen/landlords)
+A landlord game developed by QT(The original Project: https://gitee.com/subingwen/landlords)
